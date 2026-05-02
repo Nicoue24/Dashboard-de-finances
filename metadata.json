@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Finances Personnelles",
+  "description": "Une application complète pour suivre vos revenus, dépenses et budget avec des graphiques interactifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
